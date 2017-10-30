@@ -1,0 +1,10 @@
+﻿Extractor_1.txt
+Extractor_2.txt
+Extractor_3.txt
+Extractor_4.txt
+Extractor_5.txt
+Extractor_6.txt
+Extractor_7.txt
+Extractor_8.txt
+Extractor_9.txt
+Extractor_10.txt
