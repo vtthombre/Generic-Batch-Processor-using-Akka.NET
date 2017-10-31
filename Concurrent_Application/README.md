@@ -1,6 +1,5 @@
-﻿## Concurrent application for batch processing which is fault tolerant using [Akka.NET](http://getakka.net/ "Akka.NET - .NET distributed actor framework") (based on actor model)”. 
+﻿## Concurrent application for batch processing which is fault tolerant using [Akka.NET](http://getakka.net/ "Akka.NET - .NET distributed actor framework")”. 
 Demonstrates via a console application how `concurrent as well parallely perform multple tasks` 
-### Batch Processor workflow for cuncurrent application
 
 ![Image of Workflow](/Concurrent_Application/Workflow.PNG)
 
