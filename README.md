@@ -42,7 +42,7 @@ Worker actor is the last actor in the hierarchy which actully perform the task. 
 2. Update the task status to coordinator
 
 ## Current Samples
-**[Concurrent application for Batch Processing](/Concurrent_Application/)** - how to use perform tasks concurrently as well as paralley in Akka.NET.
+**[Concurrent application for Batch Processing](/Concurrent_Application/)** - how to execute multiple tasks concurrently as well as paralley in Akka.NET.
 
 ## Contributing
 
