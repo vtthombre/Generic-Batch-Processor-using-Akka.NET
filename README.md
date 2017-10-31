@@ -5,6 +5,9 @@ A generic batch processor is used for dividing parallel work to multiple actors 
 
 Batch Processor workflow
 
+![Image of Workflow](https://github.com/vtthombre/Generic-Batch-Processor-using-Akka.NET/blob/master/Workflow.PNG)
+
+
 
 
 
